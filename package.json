@@ -154,7 +154,7 @@
     "webpack-merge": "^5.8.0"
   },
   "build": {
-    "productName": "ElectronReact",
+    "productName": "MiLifeDesign",
     "appId": "org.erb.ElectronReact",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
@@ -213,8 +213,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "MiLifeDesign",
+      "repo": "https://github.com/janko2706/MiLifeDesign-FE"
     }
   },
   "devEngines": {
